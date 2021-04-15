@@ -1,4 +1,5 @@
-![languages](https://raw.githubusercontent.com/1337xp/template1/ebc626b6d9087fa9e1ed5fa8c461255bb36ed719/generated/languages.svg)
+![languages](https://raw.githubusercontent.com/1337xp/template1/bf17002275ca1c83689b304717c3a1168e20915f/generated/languages.svg)
+![stuff]()
 
 Lol malware is fun to see in action
 <!--
