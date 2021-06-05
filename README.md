@@ -1,4 +1,4 @@
-# 1337xp
+## 1337xp
 
 Retro tech enthusiast and owner of many discord bots.
 
