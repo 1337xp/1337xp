@@ -2,14 +2,6 @@
 
 Retro tech enthusiast and owner of many discord bots.
 
-Retro tech setup:   
-Compaq Prolinea 4/25s  
-486 DX2-66  
-16MB RAM   
-80 GB HDD  
-SoundBlaster Pro v2  
-Trident TVGA 9000B 512K  
----
 Things I'm working on:  
 Retro64 (General purpose retro-themed bot)  
 Parallel  (General purpose bot)  
