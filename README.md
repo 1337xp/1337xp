@@ -1,12 +1,6 @@
 ## 1337xp
 
-Retro tech enthusiast and owner of many discord bots.
-
-Things I'm working on:  
-Retro64 (General purpose retro-themed bot)  
-Parallel  (General purpose bot)  
-Spark  (General purpose bot)  
-and more to come!
+Fire alarm enthusiast and also a huge fan of the C64!
 
 
 ## Stats
