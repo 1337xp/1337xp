@@ -1,6 +1,5 @@
 ## 1337xp
-
-Fire alarm enthusiast and also a huge fan of the C64!
+What should i say here, hmmm.
 
 
 ## Stats
