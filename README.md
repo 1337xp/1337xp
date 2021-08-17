@@ -1,5 +1,5 @@
 ## 1337xp
-What should i say here, hmmm.
+I write discord bots.
 
 
 ## Stats
