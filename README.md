@@ -1,5 +1,5 @@
 ## 1337xp
-I write discord bots.
+Heh. I like to make Touhou fangames, music and love to work with analog electronics.
 
 
 ## Stats
