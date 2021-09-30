@@ -1,5 +1,5 @@
 ## 1337xp
-Heh. I like to make Touhou fangames, music and love to work with analog electronics.
+I like to work on old computers.
 
 
 ## Stats
