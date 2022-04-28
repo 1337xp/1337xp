@@ -1,11 +1,18 @@
-## 1337xp
-I like to work on old computers.
+# 1337xp
+I guess you have found my Github profile...   
+Anyways, hello! I like to work on stuff that doesn't make sense at all.   
+   
+I usually write almost all of my projects in Python, sometimes others too.
+
+### I guess if you want to know me a little more:
+I like working on electronics, I'm a diehard fire alarm and siren enthusiast, and I like working on old computers way too much...   
+
+If you see me around on Discord, don't be afraid to say hi lol
 
 
 ## Stats
 ![languages](https://raw.githubusercontent.com/1337xp/template1/609fdf642c983679707148391ed033b1740f477c/generated/languages.svg)
-![stuff](https://raw.githubusercontent.com/1337xp/template1/82168367054b017f0e51a034a1c559997ec3ec57/generated/overview.svg)
-[![stats](https://github-readme-stats.vercel.app/api?username=1337xp)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **1337xp/1337xp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
