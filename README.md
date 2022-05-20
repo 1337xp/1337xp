@@ -9,6 +9,8 @@ I like working on electronics, I'm a diehard fire alarm and siren enthusiast, an
 
 If you see me around on Discord, don't be afraid to say hi lol
 
+Also, Windows 2000 and XP FTW
+
 
 ## Stats
 ![languages](https://raw.githubusercontent.com/1337xp/template1/609fdf642c983679707148391ed033b1740f477c/generated/languages.svg)
