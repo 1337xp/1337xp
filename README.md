@@ -7,7 +7,7 @@ I usually write almost all of my projects in Python, sometimes others too.
 ### I guess if you want to know me a little more:
 I like working on electronics, I'm a diehard fire alarm and siren enthusiast, and I like working on old computers way too much...   
 
-If you see me around on Discord, don't be afraid to say hi lol
+If you see me around on Discord, don't be afraid to say hi lol   
 Older malware is pretty cool
 
 Also, Windows 2000 and XP FTW
