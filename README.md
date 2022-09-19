@@ -1,5 +1,5 @@
 # 1337xp
-Just some person who likes tornado sirens and fire alarms.
+nothing to see here
 
 
 ## Stats
