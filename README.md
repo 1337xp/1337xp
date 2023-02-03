@@ -4,7 +4,7 @@ Hello and welcome to my profile! I'm a novice programmer, currently learning C/C
 
 
 ## Stats
-![languages](https://raw.githubusercontent.com/1337xp/template1/609fdf642c983679707148391ed033b1740f477c/generated/languages.svg)
+![languages](https://raw.githubusercontent.com/1337xp/template1/ee5d3df190dc7b34eafd01215f5806384db93cdf/generated/languages.svg)
 
 
 <!--
