@@ -1,5 +1,6 @@
 # 1337xp
-nothing to see here
+Hello and welcome to my profile! I'm a novice programmer, currently learning C/C++, Python, a little of x86 and 6502 Assembly.
+
 
 
 ## Stats
