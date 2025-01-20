@@ -23,6 +23,7 @@ i also love old hardware like the commodore 64 and similar, and i freaking LOVE 
 
 
 ## 🔗 let’s connect:
+**ps, i know these don't work yet lol**    
 - [portfolio](https://clara.esitel.net)
 - [site](https://home.esitel.net)
 
