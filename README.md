@@ -1,4 +1,4 @@
-# hey there, i'm clara!!
+# hey there, i'm clara!!~~~
 
 ![anime 2](https://31.media.tumblr.com/fa302fa62759a6486eaf23f538807f02/tumblr_mq8i4kAl9i1sq9yswo1_500.gif)
 
