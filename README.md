@@ -23,8 +23,8 @@ i also love old hardware like the commodore 64 and similar, and i freaking LOVE 
 
 
 ## 🔗 let’s connect:
-- [portfolio](clara.esitel.net)
-- [site](home.esitel.net)
+- [portfolio](https://clara.esitel.net)
+- [site](https://home.esitel.net)
 
 
 ## 📈 github statistics...:
